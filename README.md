@@ -1,4 +1,3 @@
-```markdown
 # iTask - Todo List Application
 
 iTask is a simple and interactive Todo List application built using React.js. It allows users to add, edit, delete, and manage their tasks efficiently. The tasks are stored in the browser's `localStorage` to persist data across sessions.
@@ -138,4 +137,3 @@ Feel free to fork this repository and submit pull requests. Any improvements or 
 ## License
 
 This project is licensed under the MIT License.
-```
