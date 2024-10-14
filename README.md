@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # iTask - Todo List Application
 
 iTask is a simple and interactive Todo List application built using React.js. It allows users to add, edit, delete, and manage their tasks efficiently. The tasks are stored in the browser's `localStorage` to persist data across sessions.
@@ -147,4 +146,3 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 23b1c7e (First Commit)
